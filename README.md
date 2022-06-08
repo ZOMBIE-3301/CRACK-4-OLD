@@ -25,7 +25,7 @@ cd CRACK-4-OLD
 
 
 
-python sakib4-tqai.py
+python sakib4_tqai.py
 
 
 
